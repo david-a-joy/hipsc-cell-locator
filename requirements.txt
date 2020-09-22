@@ -1,0 +1,4 @@
+numpy
+matplotlib
+pillow
+pyinstaller>=3.3.1
